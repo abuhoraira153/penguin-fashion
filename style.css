@@ -4,7 +4,6 @@ body{
 }
 .header-bg{
     background-color: #FFFBF0;
-    ;
 }
 .button-style{
     background: linear-gradient(180deg, #A4BC46 0%, #85A019 100%);
@@ -22,7 +21,7 @@ body{
 .jaket-bg{
     background-color: #F1F1F1;
     border-radius: 1rem;
-    width: 300px;
+    width: 270px;
     height: 350px;
 }
 .price{
